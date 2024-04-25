@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#section-1 {
+  height: 350px;
+  width: 100%;
+  /* background-image: url(../../images/hero-banner.webp); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  background-position-y: 45%;
+  position: relative;
+}
+header {
+  background-color: black;
+  /* text-indent: 80px; */
+  height: 64px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 90px;
+  position: fixed;
+  height: auto;
+  width: 100%;
+  z-index: 100;
+}
+.link-1 {
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 5px 12px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet Ms", sans-serif;
+}
+.logo-1 {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+}
+.button-1 {
+  color: white;
+  background: rgba(255, 255, 255, 0.17);
+  padding: 14px 12px;
+  line-height: 16px;
+  margin: 10px;
+  margin-left: 650px;
+  border: 0;
+  font-size: 14px;
+  font-weight: 600;
+}
+.button-2 {
+  color: #000000;
+  background: #ffffff;
+  padding: 14px 12px;
+  line-height: 16px;
+  margin: 10px;
+  border: 0;
+  font-size: 14px;
+  font-weight: 600;
+}
+.Hamburger {
+  padding-left: 10px;
+}
+.kid-h1 {
+  font-size: 60px;
+}
+
