@@ -6,7 +6,11 @@ import Example5 from "./JSX_example/Example5";
 import IfElse from "./JSX_example/IfElse";
 import IfElse2 from "./JSX_example/IfElse2";
 import MapFunction from "./JSX_example/MapFunction";
+import RepeatedComponent from "./JSX_example/RepeatedComponent";
+import RepeatedLiInUl from "./JSX_example/RepeatedLiInUl";
+import RepeatedTable from "./JSX_example/RepeatedTable";
 import SwitchCase from "./JSX_example/SwitchCase";
+import AllStyleComponent from "./StyleComponent/AllStyleComponent";
 
 export default function App() {
   return (
@@ -19,7 +23,12 @@ export default function App() {
       <IfElse />
       <IfElse2 /> */}
       {/* <SwitchCase /> */}
-      <MapFunction />
+      {/* <MapFunction /> */}
+      {/* <RepeatedComponent /> */}
+      {/* <RepeatedLiInUl /> */}
+      {/* <RepeatedTable /> */}
+      <AllStyleComponent />
+      
     </div>
   );
 }

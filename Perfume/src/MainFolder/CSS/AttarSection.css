@@ -1,0 +1,40 @@
+.Heading-line {
+  padding-top: 50px;
+  text-align: center;
+  font-family: Lato;
+  font-weight: 400;
+}
+.card {
+  width: 33%;
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.img-div {
+  width: 50%;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 10px;
+}
+.img-class {
+  width: 100%;
+}
+.main-card-div {
+  padding: 50px;
+  background-color: rgb(228, 211, 214);
+}
+.spantag {
+  text-decoration: line-through;
+}
+.save-p {
+  background-color: rgb(149, 104, 39);
+  width: 60px;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 10px;
+  text-align: center;
+}
